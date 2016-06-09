@@ -411,3 +411,4 @@ func NewWhisperMessage(message *Message) WhisperMessage {
 		Hash:    common.ToHex(message.Hash.Bytes()),
 	}
 }
+.
